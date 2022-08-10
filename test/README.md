@@ -11,4 +11,4 @@ Then, depending on the container project state :
 * To **create** the link (folder must not exist): `git subtree add --prefix=<folder> <name> <branch> --squash`
 * To **update** the link : `git subtree pull --prefix=<folder> <name> <branch> --squash`
 
-This is modified locally.
+## Preventing changes in the subtree
