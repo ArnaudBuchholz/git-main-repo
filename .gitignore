@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Trying to avoid modifications of test/ folder
+test/
